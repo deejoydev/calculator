@@ -3,6 +3,10 @@
   margin: 0;
   box-sizing: border-box;
 }
+body{
+  display: flex;
+  justify-content: center
+}
 .container{
   width: 500px;
   background-color: #f5faff;
