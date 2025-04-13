@@ -5,13 +5,13 @@
 }
 body{
   display: flex;
-  justify-content: center
+  justify-content: center;
 }
 .container{
   width: 500px;
   background-color: #f5faff;
   border-radius: 5px;
-  box-shadow: 2px 5px #d7e4f4;
+  
 }
 .display{
   width: 100%;
