@@ -1,0 +1,14 @@
+AC color - #e6deff
+display color - #d7e4f4
+button background - #e9f1fa
+font color - #40484d
+
+upper row and operator buttons - #d1e5f4
+
+
+
+
+
+
+
+
